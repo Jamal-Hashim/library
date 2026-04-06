@@ -55,7 +55,7 @@ The main purpose of this project is to practice **front-end web development** an
 
 Visit the live website:
 
-🌐 https://jamal-hashim.github.io/school/
+🌐 https://jamal-hashim.github.io/library/
 
 ---
 
