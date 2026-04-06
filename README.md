@@ -51,6 +51,18 @@ The main purpose of this project is to practice **front-end web development** an
 
 ---
 
+
+## 🚀 Live Demo
+
+Visit the live website:
+
+🌐 https://jamal-hashim.github.io/school/
+
+---
+
+🌐 Portfolio: https://jamal-hashim.github.io/jh-portfolio/  
+📧 Email: jamalhashim9151@gmail.com
+
 ## 👨‍💻 Author
 
 **Jamal Hashim**
