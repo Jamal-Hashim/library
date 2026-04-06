@@ -30,7 +30,8 @@ This project demonstrates front-end web development skills and can be used as a 
 
 ## 📂 Project Structure
 
-Amrit-Library-Website
+```
+Amrit-Library-Website/
 │
 ├── index.html
 ├── about.html
@@ -41,8 +42,6 @@ Amrit-Library-Website
 ├── script.js
 │
 └── image/
-
-
 ---
 
 ## 🎯 Purpose of the Project
